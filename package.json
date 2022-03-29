@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/alexei-kosykh/MERN-eCommerce#readme",
   "dependencies": {
+    "axios": "^0.26.1",
     "express": "^4.17.3"
   }
 }
